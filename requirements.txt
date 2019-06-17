@@ -1,0 +1,6 @@
+brew install wget
+brew install git-lfs
+pip install deepspeech
+
+
+
